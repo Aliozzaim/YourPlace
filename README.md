@@ -5,4 +5,11 @@ Reducer/ CallBack / Context
 
 
 User interfaces have been created for update, delete, add and create operations
+
+
+
+
+
+
+
 Form validation and authorization implemented
